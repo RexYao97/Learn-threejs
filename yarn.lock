@@ -382,10 +382,10 @@ three-mtl-loader@^1.0.2:
   dependencies:
     three "^0.87.1"
 
-three@^0.110.0:
-  version "0.110.0"
-  resolved "https://registry.npm.taobao.org/three/download/three-0.110.0.tgz#8719591de1336269113ee79f4268ba247b2324f8"
-  integrity sha1-hxlZHeEzYmkRPuefQmi6JHsjJPg=
+three@^0.137.0:
+  version "0.137.0"
+  resolved "https://registry.yarnpkg.com/three/-/three-0.137.0.tgz#0ebd6ba66637a332c31f234bcdd35aeec071a6e3"
+  integrity sha512-rzSDhia6cU35UCy6y+zEEws6vSgytfHqFMSaBvUcySgzwvDO6vETyswtSNi/+aVqJw8WLMwyT1mlQQ1T/dxxOA==
 
 three@^0.87.1:
   version "0.87.1"

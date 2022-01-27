@@ -15,7 +15,7 @@
     "koa": "^2.11.0",
     "koa-router": "^7.4.0",
     "koa-static": "^5.0.0",
-    "three": "^0.110.0",
+    "three": "^0.137.0",
     "three-js": "^79.0.0",
     "three-mtl-loader": "^1.0.2"
   }
